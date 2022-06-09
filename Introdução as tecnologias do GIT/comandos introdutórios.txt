@@ -1,0 +1,17 @@
+1. Git init: criando seu repositório local!
+2. Git add: adicionando alterações no repositório!
+3. Git commit: confirmando e salvando as alterações no repositórios!
+4. Git Status: verificando se há alterações na branch
+5. Git log: verifique quais commits foram feitos até agora
+6. Git reset: desfazendo as alterações de um repositório para um commit anterior!
+7. Git revert: Desfazendo um commit sem excluir os dados existentes!
+8. Git diff: verificando as diferenças entre arquivos e repositórios!
+9. Git remote: ligando seu repositório local a um repositório remoto!
+10. Git push: enviando as alterações do repositório local para o repositório remoto!
+11. Git branch: listando e deletando branches 
+12. Git checkout: criando uma nova branch e restaurando arquivos!
+13. Git merge: mesclando as alterações em sua branch à branch master
+14. Git pull: atualizando o repositório local com a versão do repositório remoto! 
+15. Git rebase: integrando todas as alterações de um branch em outro branch
+16. Git stash: criando um backup das alterações atuais do seu projeto
+17. Git clone: baixando o código fonte de um repositório!
